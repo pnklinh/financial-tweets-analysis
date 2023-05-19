@@ -1,2 +1,2 @@
 # financial-tweets-analysis
-a basic example of python and pandas use in data analysis
+a basic example of python and pandas used for data analysis
