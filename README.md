@@ -1,2 +1,5 @@
-# financial-tweets-analysis
-a basic example of python and pandas used for data analysis of csv files
+# financial tweets analysis
+- a basic example of python's pandas and matplotlib libraries used for data analysis and data visualisation
+- includes data cleaning, data analysis, text analysis and data visualisation
+- a kaggle-based notebook
+- files used for input are saved as .csv
